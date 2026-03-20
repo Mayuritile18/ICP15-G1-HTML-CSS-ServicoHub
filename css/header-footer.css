@@ -98,7 +98,6 @@ footer .btn-primary {
   }
 }
 
-/* MOBILE */
 @media (max-width: 600px) {
   .navbar {
     padding: 15px 20px;
