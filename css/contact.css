@@ -148,7 +148,9 @@ padding: 50px 10px;
 .faq-section {
     padding: 60px 20px;
     text-align: center;
-    background-color: #1e4ed8;;
+    background-color: #1e4ed8;
+    display: flex;
+    justify-content: center;
 }
 .container {
     max-width: 900px;
