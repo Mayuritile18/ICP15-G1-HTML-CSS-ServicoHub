@@ -3,6 +3,7 @@
 Servico Hub is a home service website project built using **HTML** and **CSS**.  
 It helps users find and book trusted local service professionals like **Electricians, Plumbers, AC Repair Technicians, and Carpenters**.
 
+![output](./images/output.jpg)
 ## Features
 
 - Clean and responsive website design
@@ -16,10 +17,10 @@ It helps users find and book trusted local service professionals like **Electric
 ## Pages
 
 - Home Page
-- About Us Page
-- Services Page
+- Service Page
+- Booking Service Page
+- About Page
 - Contact Page
-- Booking Page
 
 ## Technologies Used
 
@@ -53,4 +54,8 @@ servico-hub/
 │
 └── assets/
     └── images/
-    ![this is image]()
+    
+    ## contributors :
+<a href="https://github.com/HarshPohane/ICP15-G1-HTML-CSS-ServicoHub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HarshPohane/ICP15-G1-HTML-CSS-ServicoHub/graphs/contributors" />
+</a>
