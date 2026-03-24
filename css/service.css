@@ -26,12 +26,14 @@
     font-size: 40px;
     margin-bottom: 10px;
     color: #003f87;
+    
 }
 
 .services-subtitle {
     font-size: 18px;
     margin-bottom: 40px;
     color: #555;
+    
 }
 
 .service-row {
@@ -45,7 +47,7 @@
 }
 
 .service-text {
-    width: 50%;
+    width: 100%;
 }
 
 .service-text h3 {
@@ -57,18 +59,20 @@
     font-size: 16px;
     color: #555;
     margin-bottom: 15px;
-    line-height: 1.6;
+    line-height: 1.7;
 }
 
 .service-image {
-    width: 40%;
+    width: 200%;
     text-align: right;
+    
 }
 
 .service-image img {
     width: 100%;
-    max-width: 260px;
+    max-width: 500px;
     border-radius: 10px;
+    text-align: left;
 }
 
 .service-btn {
@@ -86,7 +90,7 @@
 }
 
 
-@/* MOBILE (up to 768px) */
+/* MOBILE (up to 768px) */
 @media (max-width: 768px) {
 
   .hero {
@@ -277,6 +281,7 @@
 
   .service-image {
     flex: 1;
+    width:100%;
   }
 
   /* CTA */
@@ -292,9 +297,8 @@
     font-size: 16px;
   }
 }
-⚡ Important Base CSS (Add This)
 
-These are required for media queries to work properly:
+
 
 /* Hero buttons */
 .hero-buttons {
